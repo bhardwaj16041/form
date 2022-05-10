@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.form-body{
+    background-color: #6980ED;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form-touch h1{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.name{
+    margin: 20px;
+}
+
+.name input{
+    padding: 8px;
+    border-radius: 20px;
+}
+
+.address{
+    margin: 20px;
+    
+}
+
+.address input{
+    padding: 8px;
+    width: 95%;
+    border-radius: 20px;
+}
+
+.message{
+    margin: 20px;
+   
+}
+
+.message input{
+    padding: 8px;
+    width: 95%;
+    border-radius: 20px;
+}
+
+.btn{
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.btn button{
+    border-radius: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: blue;
+    color: white;
+}
